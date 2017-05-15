@@ -1,4 +1,4 @@
-looper = (1..30)
+looper = (1..100)
 
 looper.each do |num|
   if (num % 3 == 0) && (num % 5 == 0)
